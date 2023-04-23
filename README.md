@@ -1,4 +1,4 @@
-# HealthInsuranceSmartContract
+# Health Insurance SmartContract
 Example code for a travel health insurance smart contract written in Solidity for the Ethereum platform, allows you to purchase health insurance, file claims, cancel and activate policies. Values ​​for health insurance, such as premium, coverage amount, start and end date, are stored in the Policy structure. Features to purchase a policy, make a claim, cancel and activate a policy are available to users. The insurer (insurer) can also change its details using the changeInsurer function.
 
 It is worth noting that this example focuses on the basic functions of a smart contract and does not cover some important aspects, such as managing different types of health insurance, considering data privacy regulations, and carefully tracking and controlling claims related to various types of medical conditions. 
